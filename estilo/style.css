@@ -88,11 +88,13 @@ section.imagem > p{
 section#img01{
     background-image: url('../imagens/03kk.webp');
     background-size: cover;
+    background-position: center center;
 }
 
 section#img02{
     background-image: url('../imagens/li\ kk.jpg');
     background-size: cover;
+    background-position: center center;
 }
 
 footer{
